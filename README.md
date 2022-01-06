@@ -29,5 +29,22 @@
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucjponfeldyztcb-oivylxog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucjponfeldyztcb-oivylxog" height="30" width="40" /></a>
 </p>
 
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/duyminh-bostrap/github-readme-stats"><img alt="Duy Minh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=duyminh-bostrap&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/duyminh-bostrap/github-readme-stats"><img alt="Duy Minh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duyminh-bostrap&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/duyminh-bostrap/github-readme-activity-graph"><img alt="Duy Minh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=duyminh-bostrap&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/duyminh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="duyminh" /></a><a href="https://ko-fi.com/duyminh"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="duyminh" /></a></p><br><br>
