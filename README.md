@@ -52,5 +52,8 @@
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucjponfeldyztcb-oivylxog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucjponfeldyztcb-oivylxog" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/duyminh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="duyminh" /></a><a href="https://ko-fi.com/duyminh"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="duyminh" /></a></p><br><br>
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=duyminh-bostrap">
+</a>
+<a href="https://github.com/duyminh-bostrap?tab=followers"><img src="https://img.shields.io/github/followers/duyminh-bostrap?label=Followers&style=social" alt="GitHub Badge"></a>
