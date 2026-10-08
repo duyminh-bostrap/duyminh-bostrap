@@ -13,7 +13,7 @@
 📍 Hà Nội, Việt Nam
 
 [![Email](https://img.shields.io/badge/Email-duyminh.bostrap@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:duyminh.bostrap@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Minh%20Nguyễn%20Duy-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/mikevn))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Minh%20Nguyễn%20Duy-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikevn)
 [![Facebook](https://img.shields.io/badge/Facebook-duyminh.bostrap-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/duyminh.mike)
 [![Instagram](https://img.shields.io/badge/Instagram-duy._.minh-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/duy._.minh/)
 
