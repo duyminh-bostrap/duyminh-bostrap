@@ -1,9 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:6a5acd,100:ff4fa3&height=220&section=header&text=Nguy%E1%BB%85n%20Duy%20Minh&fontSize=56&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Founder%20%C2%B7%20Mik%20Studio&descSize=22&descAlignY=60" alt="Nguyễn Duy Minh" />
+<img src="assets/mik-studio-logo.png" alt="Mik Studio" height="96" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff8a00,50:ff5a1f,100:d93a1a&height=220&section=header&text=Nguy%E1%BB%85n%20Duy%20Minh&fontSize=56&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Founder%20%C2%B7%20Mik%20Studio&descSize=22&descAlignY=60" alt="Nguyễn Duy Minh" />
 
 <a href="https://github.com/duyminh-bostrap">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=640&lines=Projection+Mapping+%F0%9F%8E%A5;Interactive+Installation+%E2%9C%A8;AV+Control+%26+Tooling+%F0%9F%93%BD%EF%B8%8F;Computer+Vision+%26+AR+%F0%9F%91%81%EF%B8%8F" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=FF6A1A&center=true&vCenter=true&width=640&lines=Projection+Mapping+%F0%9F%8E%A5;Interactive+Installation+%E2%9C%A8;AV+Control+%26+Tooling+%F0%9F%93%BD%EF%B8%8F;Computer+Vision+%26+AR+%F0%9F%91%81%EF%B8%8F" alt="Typing animation" />
 </a>
 
 📍 Hà Nội, Việt Nam
@@ -86,7 +88,7 @@ Nền tảng ban đầu của mình là **Computer Vision & Augmented Reality** 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=duyminh-bostrap&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duyminh-bostrap&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top languages" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=duyminh-bostrap&bg_color=0D1117&color=36BCF7&line=6a5acd&point_color=ff4fa3&area=true&hide_border=true" alt="Activity graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=duyminh-bostrap&bg_color=0D1117&color=FF6A1A&line=6a5acd&point_color=ff4fa3&area=true&hide_border=true" alt="Activity graph" />
 
 <img src="https://streak-stats.demolab.com/?user=duyminh-bostrap&theme=github-dark&hide_border=true&background=0D1117" alt="Streak" />
 
@@ -102,6 +104,6 @@ Nền tảng ban đầu của mình là **Computer Vision & Augmented Reality** 
 
 📫 **duyminh.bostrap@gmail.com**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4fa3,50:6a5acd,100:0e75b6&height=120&section=footer" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:d93a1a,50:ff5a1f,100:ff8a00&height=120&section=footer" alt="" />
 
 </div>
