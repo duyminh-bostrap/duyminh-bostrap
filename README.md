@@ -13,8 +13,8 @@
 📍 Hà Nội, Việt Nam
 
 [![Email](https://img.shields.io/badge/Email-duyminh.bostrap@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:duyminh.bostrap@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Minh%20Nguyễn%20Duy-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minh-nguy%e1%bb%85n-duy-4584221b9/)
-[![Facebook](https://img.shields.io/badge/Facebook-duyminh.bostrap-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/duyminh.bostrap)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Minh%20Nguyễn%20Duy-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/mikevn))
+[![Facebook](https://img.shields.io/badge/Facebook-duyminh.bostrap-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/duyminh.mike)
 [![Instagram](https://img.shields.io/badge/Instagram-duy._.minh-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/duy._.minh/)
 
 <img src="https://komarev.com/ghpvc/?username=duyminh-bostrap&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
