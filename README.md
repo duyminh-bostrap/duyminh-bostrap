@@ -90,8 +90,6 @@ Nền tảng ban đầu của mình là **Computer Vision & Augmented Reality** 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=duyminh-bostrap&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duyminh-bostrap&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top languages" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=duyminh-bostrap&bg_color=0D1117&color=FF6A1A&line=6a5acd&point_color=ff4fa3&area=true&hide_border=true" alt="Activity graph" />
-
 <img src="https://streak-stats.demolab.com/?user=duyminh-bostrap&theme=github-dark&hide_border=true&background=0D1117" alt="Streak" />
 
 <sub>Top languages chỉ phản ánh mã nguồn công khai, không đại diện cho kinh nghiệm hay kỹ năng.</sub>
@@ -105,6 +103,8 @@ Nền tảng ban đầu của mình là **Computer Vision & Augmented Reality** 
 *Làm show thì phải ổn định. Làm công cụ thì phải dễ dùng.* ⚡
 
 📫 **duyminh.bostrap@gmail.com**
+
+<a href="https://www.buymeacoffee.com/mikevn" target="_blank"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" height="40" /></a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:d93a1a,50:ff5a1f,100:ff8a00&height=120&section=footer" alt="" />
 
